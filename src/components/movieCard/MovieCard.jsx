@@ -5,7 +5,7 @@ import { useSelector } from "react-redux";
 
 import "./style.scss";
 import Img from "../lazyLoadImage/Img";
-// import CircleRating from "../circleRating/CircleRating";
+import CircleRating from "../circleRating/CircleRating";
 
 
 import Genres from "../genres/Genres";
